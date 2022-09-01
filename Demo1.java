@@ -43,7 +43,7 @@ public class Demo1 {
 		}
 		System.out.println(arr[map.get(a)]);
 		System.out.println("hello");
-
+		
 		
 	}
 }
