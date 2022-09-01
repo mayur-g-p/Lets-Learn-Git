@@ -9,5 +9,6 @@ public class multiply {
 		int b=10;
 		int c=10;
 		System.out.println("multiply="+(a*b*c));
+		System.out.println("multiply="+(a*b));
 	}
 }
